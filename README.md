@@ -1,2 +1,2 @@
-# The Lotus 50
+# The Lotus 40
 custom keyboard for Hack Club Highway
