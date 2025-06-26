@@ -14,7 +14,7 @@ finished keyboard layout:
 
 installed KiCad and played around with it to learn some of its functions
 
-time spent: ~ 1.5 hr
+time spent: ~ 2 hr
 
 # june 24
 
@@ -36,4 +36,11 @@ pcb:
 
 time spent: ~ 10 hr
 
+# june 25
 
+did some research on ways to build a case and where to buy components (jlc, aliexpress, etc.)
+started a shopping list
+
+![image](https://github.com/user-attachments/assets/6bebe3fb-ebc9-45f9-9b7f-74cf043c0baf)
+
+time spent: ~ 1.5 hr
