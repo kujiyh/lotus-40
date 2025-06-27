@@ -44,3 +44,14 @@ started a shopping list
 ![image](https://github.com/user-attachments/assets/6bebe3fb-ebc9-45f9-9b7f-74cf043c0baf)
 
 time spent: ~ 1.5 hr
+
+# june 26
+
+fixed some pcb mistakes, tried for like 2 hours to make the board tray mount with pcb and plate screws, but gave up
+decided on just gluing pcb to supports in the case 
+almost finished cadded case today (fusion is hell)
+
+![image](https://github.com/user-attachments/assets/63c8542b-e709-4dd7-9c51-0b833c2610a3)
+
+
+time spent: ~ 4 hr
