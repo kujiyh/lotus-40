@@ -4,6 +4,10 @@ author: kuji
 description: 40% keyboard with oled
 created: 2025-06-23
 ---
+
+# Total time spent designing: 23 hours
+# Total time spent assembling: TBA
+
 # june 23
 
 mostly just did research on keyboard layouts, what components to use, what is and isn't feasible (power draw etc.) and [how to add oled screens](https://www.reddit.com/r/MechanicalKeyboards/comments/5xubd7/adding_oled_display_to_your_build_using_qmk/) (SSD1306) to a keyboard.
@@ -60,4 +64,19 @@ time spent: ~ 4 hr
 lowkey did not feel very good after getting a vaccine so just researched how to write my own firmware using QMK 
 https://docs.qmk.fm/newbs_getting_started 
 
-time spent: ~ 1 hr
+time spent: ~ 1.5 hr
+
+# june 28
+
+finished cadding case:
+
+![image](https://github.com/user-attachments/assets/ba6df84e-d967-4237-a48a-8e65c6531670)
+
+used [swillkb](http://builder.swillkb.com/) to make the plate
+
+![image](https://github.com/user-attachments/assets/c2b3bea5-8895-4035-9cf6-243abaca535f)
+
+organized BOM (optimizing prices took longer than it should have since aliexpress has a million different vendors for the most obscure keyboard switch)
+
+time spent: ~ 4 hr
+
