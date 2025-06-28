@@ -34,3 +34,5 @@ BOM:
 | Switches | $24.52 | [link](https://www.aliexpress.com/item/1005008394917920.html?spm=a2g0o.productlist.main.1.645353acpb1uSd&algo_pvid=0f13a266-3646-45ba-9601-fa8c88c5af20&algo_exp_id=0f13a266-3646-45ba-9601-fa8c88c5af20-0&pdp_ext_f=%7B%22order%22%3A%2240%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%2111.29%212.35%21%21%218.09%211.68%21%402103245417511474735238088eae82%2112000044841496191%21sea%21CA%213075130259%21ACX&curPageLogUid=mx57PwAEfzUi&utparam-url=scene%3Asearch%7Cquery_from%3A) |
 | Switches | $11.76 | [link](https://www.aliexpress.com/item/1005006528731543.html?spm=a2g0o.productlist.main.1.64403b4bSXKdtR&algo_pvid=2a392ca5-f9b7-4640-a01c-664826ab7547&algo_exp_id=2a392ca5-f9b7-4640-a01c-664826ab7547-0&pdp_ext_f=%7B%22order%22%3A%22924%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%2111.76%215.48%21%21%218.43%213.93%21%402103010b17511455687663518e23c7%2112000037543723481%21sea%21CA%213075130259%21ACX&curPageLogUid=qf7Fg803iAUK&utparam-url=scene%3Asearch%7Cquery_from%3A) |
 | Plate | $63.13 | [link](https://hypekeyboards.ca/products/custom-plate-cutting-service) |
+
+Total Price in CAD/USD: $218.92/$159.80
