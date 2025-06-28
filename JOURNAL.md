@@ -53,5 +53,11 @@ almost finished cadded case today (fusion is hell)
 
 ![image](https://github.com/user-attachments/assets/63c8542b-e709-4dd7-9c51-0b833c2610a3)
 
-
 time spent: ~ 4 hr
+
+# june 27
+
+lowkey did not feel very good after getting a vaccine so just researched how to write my own firmware using QMK 
+https://docs.qmk.fm/newbs_getting_started 
+
+time spent: ~ 1 hr
