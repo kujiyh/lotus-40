@@ -68,7 +68,9 @@ time spent: ~ 1.5 hr
 
 # june 28
 
-finished cadding case:
+found mistakes in original case design and tried to fix them, but just kept making things more complicated
+decided to restart, opting for a wedge at the bottom of the board to give it its 5 degree tilt
+took longer than it should have to design the rounded corners on the board...
 
 ![image](https://github.com/user-attachments/assets/ba6df84e-d967-4237-a48a-8e65c6531670)
 
