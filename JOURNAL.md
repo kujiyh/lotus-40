@@ -5,7 +5,7 @@ description: 40% keyboard with oled
 created: 2025-06-23
 ---
 
-# Total time spent designing: 23 hours
+# Total time spent designing: 25 hours
 # Total time spent assembling: TBA
 
 # june 23
