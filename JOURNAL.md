@@ -51,7 +51,7 @@ time spent: ~ 1.5 hr
 
 # june 26
 
-fixed some pcb mistakes, tried for like 2 hours to make the board tray mount with pcb and plate screws, but gave up
+fixed a bunch of pcb mistakes, tried for like 2 hours to make the board tray mount with pcb and plate screws, but gave up
 decided on just gluing pcb to supports in the case 
 almost finished cadded case today (fusion is hell)
 
@@ -81,4 +81,10 @@ used [swillkb](http://builder.swillkb.com/) to make the plate
 organized BOM (optimizing prices took longer than it should have since aliexpress has a million different vendors for the most obscure keyboard switch)
 
 time spent: ~ 4 hr
+
+# june 30
+
+reduced details on case a little to avoid 3d printing issues
+
+time spent: ~ 2 hr
 
