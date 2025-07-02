@@ -5,7 +5,7 @@ description: 40% keyboard with oled
 created: 2025-06-23
 ---
 
-# Total time spent designing: 25 hours
+# Total time spent designing: 27 hours
 # Total time spent assembling: TBA
 
 # june 23
@@ -82,9 +82,14 @@ organized BOM (optimizing prices took longer than it should have since aliexpres
 
 time spent: ~ 4 hr
 
-# june 30
+# july 1 
 
-reduced details on case a little to avoid 3d printing issues
+finished writing firmware using QMK. i did this by first installing uv and following the guide on the QMK website, installing QMK MSYS. From there, i created the keymap and keyboard.json files. below is the fruit of my labor today
 
-time spent: ~ 2 hr
+![image](https://github.com/user-attachments/assets/785a3a44-0200-4b4b-9c8e-b77be4bbfe11)
 
+very difficult 
+
+the firmware is not 100% done, as there is oled code to be written, however i plan to configure my oled screen once it actually arrives, since i think that'd be easier to debug and chances are any code i write now will have to be rewritten anyways
+
+time spent: ~ 4 hr 
