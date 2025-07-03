@@ -14,6 +14,8 @@ PCB:
 
 ![image](https://github.com/user-attachments/assets/07cc802d-4375-498b-a356-841a71728671)
 
+![image](https://github.com/user-attachments/assets/8acd5f89-a1b4-4428-94c0-7a113af5d8ef)
+
 Case: 
 
 ![image](https://github.com/user-attachments/assets/ba6df84e-d967-4237-a48a-8e65c6531670)
