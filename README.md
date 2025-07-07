@@ -8,21 +8,17 @@ I made this project as a way to familiarize myself more with the tools used to c
 
 Schematic: 
 
-![image](https://github.com/user-attachments/assets/0dec8363-be89-444b-85f1-0b217bfa0209)
+![image](https://github.com/user-attachments/assets/1e6c2cda-7ca1-4764-b813-a2a732ba78c2)
 
 PCB: 
 
-![image](https://github.com/user-attachments/assets/07cc802d-4375-498b-a356-841a71728671)
-
-![image](https://github.com/user-attachments/assets/8acd5f89-a1b4-4428-94c0-7a113af5d8ef)
+![image](https://github.com/user-attachments/assets/9f1ba20d-0648-43e7-8662-2f43c6092371)
 
 Case: 
 
-![image](https://github.com/user-attachments/assets/ba6df84e-d967-4237-a48a-8e65c6531670)
+![image](https://github.com/user-attachments/assets/829eb12c-a86d-4212-a5b3-1a723a5abd00)
 
-![image](https://github.com/user-attachments/assets/718c250d-f6d7-44d4-93ae-6b979322a423)
-
-![image](https://github.com/user-attachments/assets/02641c02-1605-49a1-8b02-10594cdbd63d)
+![image](https://github.com/user-attachments/assets/96c691df-63da-4738-9dad-d4459ff8ee7b)
 
 BOM:
 
